@@ -53,14 +53,13 @@ Runestones: 47
 Translocation: 48
 Transform: 49
 Void Power: 50
-Contraptions: 51
 
-Tier1: 52 --Essentially checks if you have picked an element
-Robes: 53 --You have completed robe research within at least one element
-Tools: 54 --You have completed Tools research within at least one element
-Tier 2 Water: 55 --You have picked a tier 2 water research
-Tier 2 Earth: 56 --You have picked a tier 2 earth research
-Tier 2 Fire: 57 --You have picked a tier 2 fire research
-Tier 2 Air: 58 --You have picked a tier 2 air research
-Tier 2 Light: 59 --You have picked a tier 2 light research
-Tier 2 Dark: 60 --You have picked a tier 2 dark research
+Tier 1 Element: 51 --Essentially checks if you have picked an element
+Elemental Robes: 52 --You have completed robe research within at least one element
+Elemental Tools: 53 --You have completed Tools research within at least one element
+Tier 2 Water: 54 --You have picked a tier 2 water research
+Tier 2 Earth: 55 --You have picked a tier 2 earth research
+Tier 2 Fire: 56 --You have picked a tier 2 fire research
+Tier 2 Air: 57 --You have picked a tier 2 air research
+Tier 2 Light: 58 --You have picked a tier 2 light research
+Tier 2 Dark: 59 --You have picked a tier 2 dark research

@@ -1,28 +1,45 @@
+# Add the following to your gitignore:
 
-mods/
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
 
-saves/
-
-config/tellme/
-
-options\.txt
-
-OpenComputersMod-1\.7\.3\.146-lua52-native\.64\.dll
-
-OpenComputersMod-1\.7\.3\.146-lua53-native\.64\.dll
-
-knownkeys\.txt
-
-BotaniaVars\.dat
-
-crafttweaker\.log
-
-valkyrielib/
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
+fonts/
 
 logs/
 
+valkyrielib/
+
+woot/
+
 journeymap/
 
-fonts/
+crash-reports/
 
-\.mixin\.out/
+astralsorcery/
+
+assets/
+
+BotaniaVars.dat
+
+knownkeys.txt
+
+usercache.json
+
+usernamecache.json
+
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+
+config/tellme/

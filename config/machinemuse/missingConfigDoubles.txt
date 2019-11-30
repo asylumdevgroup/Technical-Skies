@@ -1,1 +1,3 @@
 put( "airtightSeal.slotPoints.base", 1.0D );
+put( "pressure_module_0.slotPoints.base", 1.0D );
+put( "radiation_module_0.slotPoints.base", 1.0D );
