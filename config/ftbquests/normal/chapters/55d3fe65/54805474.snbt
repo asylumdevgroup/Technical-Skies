@@ -1,0 +1,38 @@
+{
+	title: "Sifting for Pebbles (And Seeds)",
+	icon: "exnihilocreatio:block_sieve",
+	x: 0.0d,
+	y: 3.5d,
+	dependencies: [
+		"17999398"
+	],
+	tasks: [{
+		uid: "ac4ff948",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	},
+	{
+		uid: "da955cb0",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 1"
+		}]
+	},
+	{
+		uid: "80f0fdc7",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_pebble"
+		}],
+		count: 8L
+	},
+	{
+		uid: "463391a7",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	}]
+}

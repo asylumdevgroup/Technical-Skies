@@ -1,0 +1,33 @@
+{
+	title: "Silk Infestation",
+	icon: "exnihilocreatio:item_material 1 2",
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"a4fdfc08"
+	],
+	tasks: [{
+		uid: "1bdd0442",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:crook_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ebeff449",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_material 1 2"
+		}]
+	},
+	{
+		uid: "b7abc015",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}],
+		count: 10L
+	}]
+}

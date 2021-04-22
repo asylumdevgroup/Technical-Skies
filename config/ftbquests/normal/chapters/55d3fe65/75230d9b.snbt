@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "7ea85116",
+		type: "checkmark",
+		title: "Welcome to ADG SkyAsylum"
+	}]
+}

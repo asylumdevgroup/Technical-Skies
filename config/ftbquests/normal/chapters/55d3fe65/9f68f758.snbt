@@ -1,0 +1,23 @@
+{
+	title: "Composting",
+	icon: "exnihilocreatio:block_barrel0",
+	x: -1.0d,
+	y: 2.5d,
+	dependencies: [
+		"a4fdfc08"
+	],
+	tasks: [{
+		uid: "7070b041",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_barrel0"
+		}]
+	},
+	{
+		uid: "e28ebad0",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}]
+	}]
+}

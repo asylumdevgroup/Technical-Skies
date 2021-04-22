@@ -1,0 +1,27 @@
+{
+	title: "Water",
+	icon: {
+		id: "minecraft:potion",
+		tag: {
+			Potion: "minecraft:water"
+		}
+	},
+	x: 1.0d,
+	y: 3.5d,
+	dependencies: [
+		"ff463d88"
+	],
+	tasks: [{
+		uid: "8bbbb24b",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:water"
+			}
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

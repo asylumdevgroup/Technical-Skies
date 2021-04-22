@@ -1,0 +1,28 @@
+{
+	title: "Automatic Cobblestone",
+	icon: "tp:cobblegen_block",
+	x: 2.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"25844243"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8ffbbc37",
+		type: "item",
+		items: [{
+			item: "tp:cobblegen_block"
+		}]
+	}],
+	rewards: [{
+		uid: "0ea01d04",
+		type: "item",
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}
+	}]
+}

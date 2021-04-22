@@ -45,3 +45,7 @@ OpenComputersMod-1.7.5.192-lua53-native.64.dll
 config/tellme/
 
 asm/
+
+local/
+
+backups/
