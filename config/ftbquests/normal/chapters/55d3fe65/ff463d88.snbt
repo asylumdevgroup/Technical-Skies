@@ -16,5 +16,10 @@
 		type: "item",
 		item: "minecraft:glass_bottle",
 		count: 2
+	},
+	{
+		uid: "240c2978",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

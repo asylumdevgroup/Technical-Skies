@@ -29,5 +29,16 @@
 			item: "minecraft:string"
 		}],
 		count: 10L
+	}],
+	rewards: [{
+		uid: "614c0976",
+		type: "item",
+		item: "exnihilocreatio:crook_bone",
+		count: 2
+	},
+	{
+		uid: "88c6f0ba",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

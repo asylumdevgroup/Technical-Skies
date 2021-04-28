@@ -1,20 +1,21 @@
 {
-	x: -1.0d,
-	y: 4.5d,
+	x: 7.0d,
+	y: 6.0d,
 	dependencies: [
-		"54805474"
+		"1673fc62",
+		"5e518bcb"
 	],
 	tasks: [{
-		uid: "94344923",
+		uid: "6b88b9ec",
 		type: "item",
 		items: [{
-			item: "minecraft:furnace"
+			item: "nuclearcraft:water_source"
 		}]
 	}],
 	rewards: [{
-		uid: "17ebba55",
+		uid: "7662e762",
 		type: "item",
 		item: "contenttweaker:stone_age_coin",
-		count: 2
+		count: 4
 	}]
 }

@@ -1,0 +1,36 @@
+{
+	title: "Basic Ore Chunks",
+	icon: "gtadditions:ex_nihilo_meta_item 1 33",
+	x: 5.0d,
+	y: 5.0d,
+	dependencies: [
+		"e746affc"
+	],
+	tasks: [{
+		uid: "26354e2a",
+		type: "item",
+		items: [{
+			item: "gtadditions:ex_nihilo_meta_item 1 33"
+		}]
+	},
+	{
+		uid: "5ef9e5d2",
+		type: "item",
+		items: [{
+			item: "gtadditions:ex_nihilo_meta_item 1 18"
+		}]
+	},
+	{
+		uid: "40d31bc5",
+		type: "item",
+		items: [{
+			item: "gtadditions:ex_nihilo_meta_item 1 71"
+		}]
+	}],
+	rewards: [{
+		uid: "6ff715b3",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 2
+	}]
+}

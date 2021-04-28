@@ -1,0 +1,156 @@
+{
+	title: "Iron and GT Tools",
+	icon: "minecraft:iron_ingot",
+	x: 7.0d,
+	y: 4.5d,
+	dependencies: [
+		"f59836aa",
+		"0c6eea4d"
+	],
+	tasks: [{
+		uid: "2f20166b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	},
+	{
+		uid: "42a4ee6b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolHardHammer",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolHardHammer"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9bec4ea6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolFile",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolFile"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "34ca6cf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolScrewdriver",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolScrewdriver"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ffb6f6c1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolSaw",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolSaw"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "847c80f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolWrench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolWrench"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3e0c9c8a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolBendingCylinder",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolBendingCylinder"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c31a2f85",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolKnife",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolKnife"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8cef9c94",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 4
+	}]
+}

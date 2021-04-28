@@ -28,5 +28,16 @@
 		items: [{
 			item: "ceramics:clay_bucket"
 		}]
+	}],
+	rewards: [{
+		uid: "d3f78d00",
+		type: "item",
+		item: "ceramics:clay_bucket",
+		count: 2
+	},
+	{
+		uid: "62f5544f",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

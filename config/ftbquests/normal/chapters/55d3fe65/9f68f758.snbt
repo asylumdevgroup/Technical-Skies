@@ -19,5 +19,16 @@
 		items: [{
 			item: "minecraft:dirt"
 		}]
+	}],
+	rewards: [{
+		uid: "87b92349",
+		type: "item",
+		item: "minecraft:dirt",
+		count: 8
+	},
+	{
+		uid: "85505251",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

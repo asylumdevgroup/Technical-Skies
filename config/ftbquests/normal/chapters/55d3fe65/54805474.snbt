@@ -34,5 +34,17 @@
 		items: [{
 			item: "minecraft:cobblestone"
 		}]
+	}],
+	rewards: [{
+		uid: "86684d6b",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 4
+	},
+	{
+		uid: "463ca274",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 2
 	}]
 }

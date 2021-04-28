@@ -1,0 +1,29 @@
+{
+	title: "More Lava",
+	icon: "exnihilocreatio:block_crucible 1 1",
+	x: 6.0d,
+	y: 3.5d,
+	dependencies: [
+		"0c6eea4d"
+	],
+	tasks: [{
+		uid: "ce32566a",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_crucible"
+		}]
+	},
+	{
+		uid: "bab0505a",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_crucible 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c429152c",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 2
+	}]
+}

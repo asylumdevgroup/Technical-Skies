@@ -23,5 +23,10 @@
 		count: 2L,
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "237748c4",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

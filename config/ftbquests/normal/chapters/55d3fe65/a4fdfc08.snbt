@@ -25,5 +25,10 @@
 		type: "item",
 		item: "minecraft:sapling",
 		count: 4
+	},
+	{
+		uid: "e2245f54",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
 	}]
 }

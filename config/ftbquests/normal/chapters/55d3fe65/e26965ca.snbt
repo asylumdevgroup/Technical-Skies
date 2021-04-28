@@ -24,5 +24,11 @@
 				material: "oak"
 			}
 		}
+	},
+	{
+		uid: "1f33f077",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 4
 	}]
 }

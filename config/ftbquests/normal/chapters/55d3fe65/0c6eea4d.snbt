@@ -1,0 +1,57 @@
+{
+	title: "Primitive Maceration",
+	icon: {
+		id: "gregtech:meta_tool",
+		tag: {
+			GT.ToolStats: {
+				MaxDurability: 80,
+				DigSpeed: 6.0f,
+				AttackDamage: 2.0f,
+				Material: "flint",
+				HarvestLevel: 1
+			}
+		},
+		Damage: 12s
+	},
+	x: 5.0d,
+	y: 4.0d,
+	dependencies: [
+		"e746affc"
+	],
+	tasks: [{
+		uid: "747ae4f4",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					MaxDurability: 80,
+					DigSpeed: 6.0f,
+					AttackDamage: 2.0f,
+					Material: "flint",
+					HarvestLevel: 1
+				}
+			},
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b29fb6c0",
+		type: "item",
+		item: {
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 12s
+		}
+	},
+	{
+		uid: "b2e1569e",
+		type: "item",
+		item: "contenttweaker:stone_age_coin"
+	}]
+}

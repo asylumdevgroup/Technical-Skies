@@ -35,5 +35,29 @@
 		items: [{
 			item: "exnihilocreatio:block_dust"
 		}]
+	}],
+	rewards: [{
+		uid: "79eb041d",
+		type: "item",
+		item: "minecraft:gravel",
+		count: 4
+	},
+	{
+		uid: "c55c169f",
+		type: "item",
+		item: "minecraft:sand",
+		count: 4
+	},
+	{
+		uid: "e8ed9af1",
+		type: "item",
+		item: "exnihilocreatio:block_dust",
+		count: 4
+	},
+	{
+		uid: "431d509d",
+		type: "item",
+		item: "contenttweaker:stone_age_coin",
+		count: 2
 	}]
 }
