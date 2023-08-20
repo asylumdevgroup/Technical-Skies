@@ -1,9 +1,0 @@
-{
-	"enabled": true,
-	"maxUses": 100,
-	"baseRange": 5.0,
-	"stoneType": [
-		"ruby",
-		"necris"
-	]
-}

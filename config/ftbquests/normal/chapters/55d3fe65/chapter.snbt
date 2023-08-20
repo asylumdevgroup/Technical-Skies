@@ -1,7 +1,0 @@
-{
-	title: "Tutorial Tier - Stone Age",
-	icon: "minecraft:cobblestone",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

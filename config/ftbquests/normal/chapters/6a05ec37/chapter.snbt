@@ -1,7 +1,0 @@
-{
-	title: "Tier 1 - LV (32 EU)",
-	icon: "gregtech:machine 1 501",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

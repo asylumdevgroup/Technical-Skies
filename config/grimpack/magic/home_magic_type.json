@@ -1,9 +1,0 @@
-{
-	"enabled": true,
-	"maxUses": 100,
-	"baseRange": 0.0,
-	"stoneType": [
-		"emerald",
-		"ruby"
-	]
-}
